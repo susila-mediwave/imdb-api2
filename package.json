@@ -1,0 +1,15 @@
+{
+  "name": "imdb-api",
+  "version": "0.0.1",
+  "description": "A dummy imdb api with express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
